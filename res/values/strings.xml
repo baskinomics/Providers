@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ProvidersActivity!</string>
+    <string name="app_name">Providers</string>
+    <string name="provider">Choose a Location Provider:</string>
+    <string name="record">Choose a Recording Options:</string>
+    <string name="save">Save Location Information:</string>
+    <string name="storage">Storage Information:</string>
+    <string name="location">Current Location Information:</string>
+
+</resources>
